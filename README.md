@@ -3,3 +3,5 @@
 - I hope the modified document that can help you find the knowledge points and solutions to the exercises in this course. 
 ## For updates
 - If you found any issues or problems, please contact the author.
+# Pdf-view
+![cs203_collection](cs203_collection.pdf){width=500px}
