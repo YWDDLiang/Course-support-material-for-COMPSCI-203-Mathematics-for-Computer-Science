@@ -4,4 +4,4 @@
 ## For updates
 - If you found any issues or problems, please contact the author.
 # Pdf-view
-![CS203_collection](cs203_collection.pdf){width=500px}
+![CS203_collection.pdf](CS203_collection.pdf){width=500px}
